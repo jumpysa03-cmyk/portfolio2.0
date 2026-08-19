@@ -1,6 +1,6 @@
 
 body{
-    background-color: azure;
+    background-color: rgb(136, 168, 161);
 }
 
 
@@ -23,7 +23,10 @@ section{
 }
 .milestone{
 border: solid black 1px;
-
+width: 30%;
+height: 25vh;
+border-radius: 10px 10px;
+background-color: beige;
 }
 
 h3{
