@@ -28,10 +28,15 @@ border: solid black 1px;
 
 h3{
     font-size: 150%;
+    text-align:center ;
 
 }
 #Milecont{
     display: flex;
     justify-content: space-around;
-    width: 70%;
+
+}
+
+#part3{
+    width: 80%;
 }
