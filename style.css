@@ -21,6 +21,10 @@ section{
     text-align: center;
     padding: 4%;
 }
+milestone{
+border: solid black 1px;
+
+}
 
 h3{
     font-size: 150%;
