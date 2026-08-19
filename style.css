@@ -32,4 +32,6 @@ h3{
 }
 #Milecont{
     display: flex;
+    justify-content: space-around;
+    width: 70%;
 }
