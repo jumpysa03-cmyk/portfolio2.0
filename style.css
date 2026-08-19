@@ -21,7 +21,7 @@ section{
     text-align: center;
     padding: 4%;
 }
-milestone{
+.milestone{
 border: solid black 1px;
 
 }
@@ -29,4 +29,7 @@ border: solid black 1px;
 h3{
     font-size: 150%;
 
+}
+#Milecont{
+    display: flex;
 }
